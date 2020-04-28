@@ -4,17 +4,16 @@
 ### O blog foi divido em 5 paginas para melhorar a esperiencia do internalta no momento de obter as informções desejadas. E as paginas são:
 [home](#home)
 
-[Como Jogar](#Como jogar)
-
 [Treinamentos](#Treinamentos)
 
 [Noticías](#Noticías)
 
+[Regras](#Regras)
 [Sobre](#Sobre)
 
 ## home 
 ### Esssa é a pagína principal do blog, nela contém as ultimas noticias postadas, as jogadas é um campo de comentários dos usuários.
-## Como Jogar
+## Regras
 ### A pagína como jogar traz informações sobre regras e posições dos atletas tando do Handebol de Quadra quanto do Beach handebol(Handebol de Arreia).
 
 ## Treinamentos
